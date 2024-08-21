@@ -1,0 +1,13 @@
+1. pwd -> periksa kedudukan pengguna/anda
+2. git init -> setup git repository
+3. git config --global user.name "nama anda" -> konfigur nama
+4. git config --global user.email "email anda" ->konfigur email
+5. git status -> periksa status fail dalam folder repository/projek
+6. git add "nama fail" -> masukkan fail dalam stage
+7. git commit -m "masukkan mesej" ->bagi tau apa perubahan yang dibuat.
+8. git branch "nama branch" -> buat cawangan/branch baru
+9.git checkout "nama branch" -> pergi ke direktori branch
+10. git rm --cache"nama fail" -> untuk keluar dari stage
+11. git add -all/-A -> add nama fail
+12. git status
+13. git log
